@@ -240,10 +240,6 @@ body{
     align-items: center;
     justify-content: center;
     flex-wrap: wrap;
-    background-color: var(--background1);
-    width: 450px;
-    border-radius: 1em;
-    box-shadow: var(--boxshadow1);
 }
 .mobile-menu-cover{
     position: fixed;
